@@ -4,6 +4,17 @@
 
 [1]: https://www.npmjs.com/package/test-release-please?activeTab=versions
 
+## [2.0.0](https://www.github.com/bcoe/test-release-please/compare/v1.0.0...v2.0.0) (2019-06-08)
+
+
+### ⚠ BREAKING CHANGES
+
+* this is an incredible new version of the library (#7)
+
+### Features
+
+* this is an incredible new version of the library ([#7](https://www.github.com/bcoe/test-release-please/issues/7)) ([600c366](https://www.github.com/bcoe/test-release-please/commit/600c366))
+
 ## 1.0.0 (2019-06-08)
 
 
