@@ -4,6 +4,14 @@
 
 [1]: https://www.npmjs.com/package/test-release-please?activeTab=versions
 
+## [2.1.0](https://www.github.com/bcoe/test-release-please/compare/v2.0.0...v2.1.0) (2019-08-16)
+
+
+### Features
+
+* add a new feature ([c9e80f8](https://www.github.com/bcoe/test-release-please/commit/c9e80f8))
+* add a new feature ([e738374](https://www.github.com/bcoe/test-release-please/commit/e738374))
+
 ## [2.0.0](https://www.github.com/bcoe/test-release-please/compare/v1.0.0...v2.0.0) (2019-06-08)
 
 
