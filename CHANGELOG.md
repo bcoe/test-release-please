@@ -4,6 +4,19 @@
 
 [1]: https://www.npmjs.com/package/test-release-please?activeTab=versions
 
+## [2.1.0](https://www.github.com/bcoe/test-release-please/compare/v2.0.0...v2.1.0) (2019-10-31)
+
+
+### Features
+
+* add a feature ([#20](https://www.github.com/bcoe/test-release-please/issues/20)) ([cd606f0](https://www.github.com/bcoe/test-release-please/commit/cd606f022b2fcdd44070d665260663af684bd69e))
+* add a new feature ([c9e80f8](https://www.github.com/bcoe/test-release-please/commit/c9e80f8b4b5fe391e9ad330052f566e7cafa8264))
+* add a new feature ([e738374](https://www.github.com/bcoe/test-release-please/commit/e738374cddc92a8219ea324f5e31bd8f55413d12))
+* added 0 to README ([#11](https://www.github.com/bcoe/test-release-please/issues/11)) ([a23b9cb](https://www.github.com/bcoe/test-release-please/commit/a23b9cb7c096c03d3956492ca40a2fa0fde6ab00))
+* adding a feature to the project ([#18](https://www.github.com/bcoe/test-release-please/issues/18)) ([9859678](https://www.github.com/bcoe/test-release-please/commit/98596782b646235fd4d3393236d72dfe74a798d3))
+* change a file ([#21](https://www.github.com/bcoe/test-release-please/issues/21)) ([c207ddb](https://www.github.com/bcoe/test-release-please/commit/c207ddbbd553e6950123dcbe090f5404103e703f))
+* **build:** github releases will now be handled by release-please ([#19](https://www.github.com/bcoe/test-release-please/issues/19)) ([4fb2e2d](https://www.github.com/bcoe/test-release-please/commit/4fb2e2d83f7cb24efe3d563768f1ea254a881d98))
+
 ## [2.0.0](https://www.github.com/bcoe/test-release-please/compare/v1.0.0...v2.0.0) (2019-06-08)
 
 
