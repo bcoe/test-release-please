@@ -1,4 +1,4 @@
 
-# Used To Perform End-to-End tests with release-please
+# Publish Test
 
-0
+Package used to test automated publication workflow.
