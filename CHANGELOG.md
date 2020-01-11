@@ -4,6 +4,13 @@
 
 [1]: https://www.npmjs.com/package/test-release-please?activeTab=versions
 
+### [3.3.1](https://www.github.com/bcoe/test-release-please/compare/v3.3.0...v3.3.1) (2020-01-11)
+
+
+### Bug Fixes
+
+* **build:** testing wombat dressing room's initial publication ([#28](https://www.github.com/bcoe/test-release-please/issues/28)) ([17c288b](https://www.github.com/bcoe/test-release-please/commit/17c288b6cf27e729a992254c51e9ecee770e3895))
+
 ## [3.3.0](https://www.github.com/bcoe/test-release-please/compare/v3.2.9...v3.3.0) (2019-10-31)
 
 
