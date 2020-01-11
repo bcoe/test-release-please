@@ -4,6 +4,13 @@
 
 [1]: https://www.npmjs.com/package/test-release-please?activeTab=versions
 
+## [3.4.0](https://www.github.com/bcoe/test-release-please/compare/v3.3.1...v3.4.0) (2020-01-11)
+
+
+### Features
+
+* testing publication of new version ([#30](https://www.github.com/bcoe/test-release-please/issues/30)) ([f237a4e](https://www.github.com/bcoe/test-release-please/commit/f237a4e812b3bd9d65797aba5661d483e1c35c64))
+
 ### [3.3.1](https://www.github.com/bcoe/test-release-please/compare/v3.3.0...v3.3.1) (2020-01-11)
 
 
