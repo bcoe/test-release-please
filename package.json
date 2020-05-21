@@ -12,5 +12,8 @@
   "bugs": {
     "url": "https://github.com/bcoe/test-release-please/issues"
   },
-  "homepage": "https://github.com/bcoe/test-release-please#readme"
+  "homepage": "https://github.com/bcoe/test-release-please#readme",
+  "dependencies": {
+    "yargs": "^15.3.1"
+  }
 }

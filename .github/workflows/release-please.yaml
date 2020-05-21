@@ -14,12 +14,15 @@ jobs:
           release-type: node
           package-name: test-release-please
       - uses: actions/checkout@v2
+        if: ${{ steps.release.outputs.release_created }}
       - uses: actions/setup-node@v1
         with:
           node-version: 12
           registry-url: https://external-dot-oss-automation.appspot.com/
         if: ${{ steps.release.outputs.release_created }}
       - run: npm ci
+        if: ${{ steps.release.outputs.release_created }}
       - run: npm publish
         env:
           NODE_AUTH_TOKEN: ${{secrets.NPM_TOKEN}}
+        if: ${{ steps.release.outputs.release_created }}
