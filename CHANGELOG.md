@@ -4,6 +4,19 @@
 
 [1]: https://www.npmjs.com/package/test-release-please?activeTab=versions
 
+## [3.6.0](https://www.github.com/bcoe/test-release-please/compare/v3.5.0...v3.6.0) (2020-05-21)
+
+
+### Features
+
+* **build:** add npm publication ([053f1fe](https://www.github.com/bcoe/test-release-please/commit/053f1fe523c27322fc53d4d21a4a24595cef8ffa))
+* **build:** add release please action ([1ca5d7e](https://www.github.com/bcoe/test-release-please/commit/1ca5d7e4f418d876df1252d31209a60ca3777a1a))
+
+
+### Bug Fixes
+
+* run npm publish conditionally ([d44d5c8](https://www.github.com/bcoe/test-release-please/commit/d44d5c8e707df64501bde48928537db9f2c7515d))
+
 ## [3.5.0](https://www.github.com/bcoe/test-release-please/compare/v3.4.0...v3.5.0) (2020-01-11)
 
 
