@@ -1,3 +1,3 @@
 # Readme for B
 
-Testing monorepo workflow.
+Testing monorepo.
