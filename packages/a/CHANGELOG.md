@@ -1,5 +1,12 @@
 # Changelog
 
+### [1.0.1](https://www.github.com/bcoe/test-release-please/compare/a-v1.0.0...v1.0.1) (2020-07-26)
+
+
+### Bug Fixes
+
+* add a new line to README ([35584b7](https://www.github.com/bcoe/test-release-please/commit/35584b7f50a9840e03931180595179b113411124))
+
 ## 1.0.0 (2020-07-26)
 
 
