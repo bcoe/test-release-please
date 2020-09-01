@@ -19,6 +19,31 @@
 * added a new feature of sorts ([280ad1e](https://www.github.com/bcoe/test-release-please/commit/280ad1e23432a9ffeb3ed2ff363b5fb45577954e))
 * adding README to b ([70d4e20](https://www.github.com/bcoe/test-release-please/commit/70d4e20a2ab3dbaadacdc76e1d2f6430cb8c0562))
 * this should break ([#45](https://www.github.com/bcoe/test-release-please/issues/45)) ([28fa4ab](https://www.github.com/bcoe/test-release-please/commit/28fa4abb5616bace4c4d888f18e8977cb9e8a8bd))
+* yet another feature ([ec6f963](https://www.github.com/bcoe/test-release-please/commit/ec6f9633d46aa00dcff075b6e808c741b6843725))
+
+
+### Bug Fixes
+
+* add a new line to README ([35584b7](https://www.github.com/bcoe/test-release-please/commit/35584b7f50a9840e03931180595179b113411124))
+* continuin to test updates ([ee1ac00](https://www.github.com/bcoe/test-release-please/commit/ee1ac0070c4e76a314e1502b2702e322e6dc3fdf))
+* remove the word workflow ([4785551](https://www.github.com/bcoe/test-release-please/commit/47855517fdbd425491280a17df96c3d56aa98a96))
+* testing new update branch logic ([1ffe0c9](https://www.github.com/bcoe/test-release-please/commit/1ffe0c9fdf94a49cd23adba74624527a1b51613b))
+
+## [4.0.0](https://www.github.com/bcoe/test-release-please/compare/v3.6.0...v4.0.0) (2020-09-01)
+
+
+### ⚠ BREAKING CHANGES
+
+* this should break (#45)
+* added a and b module
+
+### Features
+
+* add the word workflow twice ([491857a](https://www.github.com/bcoe/test-release-please/commit/491857a53217a1bff25d588dd3442ece2e841f7e))
+* added a and b module ([adc2397](https://www.github.com/bcoe/test-release-please/commit/adc23978457310dd7b97b238bae2dc1030df2afa))
+* added a new feature of sorts ([280ad1e](https://www.github.com/bcoe/test-release-please/commit/280ad1e23432a9ffeb3ed2ff363b5fb45577954e))
+* adding README to b ([70d4e20](https://www.github.com/bcoe/test-release-please/commit/70d4e20a2ab3dbaadacdc76e1d2f6430cb8c0562))
+* this should break ([#45](https://www.github.com/bcoe/test-release-please/issues/45)) ([28fa4ab](https://www.github.com/bcoe/test-release-please/commit/28fa4abb5616bace4c4d888f18e8977cb9e8a8bd))
 
 
 ### Bug Fixes
