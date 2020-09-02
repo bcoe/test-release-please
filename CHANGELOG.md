@@ -12,6 +12,7 @@
 * a second fix level commit ([16e307b](https://www.github.com/bcoe/test-release-please/commit/16e307b3e679c4784dd028411ee27a78e15011a9))
 * a third fix ([21a8a7d](https://www.github.com/bcoe/test-release-please/commit/21a8a7deba832dbd94949d893dda756d32a1b15f))
 * does this new approach work? ([95081e2](https://www.github.com/bcoe/test-release-please/commit/95081e20c7e545a7d4ffb1e9f574dc5bc50d3320))
+* how about when we have closed the branch ([3a22848](https://www.github.com/bcoe/test-release-please/commit/3a22848b9a5d7b242bddd1ed75acabfaf230ed25))
 * start with patch ([52118af](https://www.github.com/bcoe/test-release-please/commit/52118af246fe6653d3401b4a0fa9f69928527473))
 
 ## [4.0.0](https://www.github.com/bcoe/test-release-please/compare/v3.6.0...v4.0.0) (2020-09-01)
