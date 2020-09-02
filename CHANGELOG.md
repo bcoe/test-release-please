@@ -4,6 +4,23 @@
 
 [1]: https://www.npmjs.com/package/test-release-please?activeTab=versions
 
+### [4.0.1](https://www.github.com/bcoe/test-release-please/compare/v4.0.0...v4.0.1) (2020-09-02)
+
+
+### Bug Fixes
+
+* a second fix level commit ([16e307b](https://www.github.com/bcoe/test-release-please/commit/16e307b3e679c4784dd028411ee27a78e15011a9))
+* a third fix ([21a8a7d](https://www.github.com/bcoe/test-release-please/commit/21a8a7deba832dbd94949d893dda756d32a1b15f))
+* another update to package.json ([0ae8769](https://www.github.com/bcoe/test-release-please/commit/0ae87690c5c65ada96b4a9ec887508377b9c76a3))
+* does this new approach work? ([95081e2](https://www.github.com/bcoe/test-release-please/commit/95081e20c7e545a7d4ffb1e9f574dc5bc50d3320))
+* how about when we have closed the branch ([3a22848](https://www.github.com/bcoe/test-release-please/commit/3a22848b9a5d7b242bddd1ed75acabfaf230ed25))
+* now delete the version.txt ([defb901](https://www.github.com/bcoe/test-release-please/commit/defb901a13b4feacf6885a74e3f94b27a1fbb686))
+* purposefully making  edits to same file ([5a783fb](https://www.github.com/bcoe/test-release-please/commit/5a783fb58a62ec9e4ae6e6fefbad9720041744e8))
+* start with patch ([52118af](https://www.github.com/bcoe/test-release-please/commit/52118af246fe6653d3401b4a0fa9f69928527473))
+* update package name ([d05150d](https://www.github.com/bcoe/test-release-please/commit/d05150d2805cbdccb9ea31ce6598162cf97721f1))
+* what if two folks edited ([0419319](https://www.github.com/bcoe/test-release-please/commit/041931901ba10b7b2709fe2f87c72d887cac450d))
+* why do you insist on closing ([3c6b7d3](https://www.github.com/bcoe/test-release-please/commit/3c6b7d3100bcde0acbbb73a5850ee302f2099f65))
+
 ## [4.0.0](https://www.github.com/bcoe/test-release-please/compare/v3.6.0...v4.0.0) (2020-09-01)
 
 
