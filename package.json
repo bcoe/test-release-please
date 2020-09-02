@@ -1,5 +1,5 @@
 {
-  "name": "test-release-please",
+  "name": "test-release-plox",
   "version": "3.6.0",
   "description": "",
   "main": "index.js",
@@ -14,6 +14,6 @@
   },
   "homepage": "https://github.com/bcoe/test-release-please#readme",
   "dependencies": {
-    "yargs": "^14.3.2"
+    "yargs": "^15.3.2"
   }
 }
