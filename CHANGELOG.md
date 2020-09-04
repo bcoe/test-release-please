@@ -4,6 +4,14 @@
 
 [1]: https://www.npmjs.com/package/test-release-please?activeTab=versions
 
+### [4.1.1](https://www.github.com/bcoe/test-release-please/compare/v4.1.0...v4.1.1) (2020-09-04)
+
+
+### Bug Fixes
+
+* here is a fix ([abb54bb](https://www.github.com/bcoe/test-release-please/commit/abb54bb7cf46b47c58ba2e9c186fe7c02b10ba69))
+* ye-olde patch release ([5a23faa](https://www.github.com/bcoe/test-release-please/commit/5a23faade7dd9dc3f6b93f9582c7ebf2dba564fa))
+
 ## [4.1.0](https://www.github.com/bcoe/test-release-please/compare/v4.0.0...v4.1.0) (2020-09-02)
 
 
