@@ -4,6 +4,13 @@
 
 [1]: https://www.npmjs.com/package/test-release-please?activeTab=versions
 
+## [5.2.0](https://www.github.com/bcoe/test-release-please/compare/v5.1.0...v5.2.0) (2021-02-02)
+
+
+### Features
+
+* add spaces ([#62](https://www.github.com/bcoe/test-release-please/issues/62)) ([ffb3160](https://www.github.com/bcoe/test-release-please/commit/ffb316080ec9e216dec0ffe197b97178fd88b93d))
+
 ## [5.1.0](https://www.github.com/bcoe/test-release-please/compare/v5.0.0...v5.1.0) (2021-02-02)
 
 
