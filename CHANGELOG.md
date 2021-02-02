@@ -4,6 +4,19 @@
 
 [1]: https://www.npmjs.com/package/test-release-please?activeTab=versions
 
+## [6.0.0](https://www.github.com/bcoe/test-release-please/compare/v5.1.0...v6.0.0) (2021-02-02)
+
+
+### ⚠ BREAKING CHANGES
+
+* **spaces:** a breaking number of spaces 4 (#65)
+
+### Features
+
+* add spaces ([#62](https://www.github.com/bcoe/test-release-please/issues/62)) ([ffb3160](https://www.github.com/bcoe/test-release-please/commit/ffb316080ec9e216dec0ffe197b97178fd88b93d))
+* **spaces:** a breaking number of spaces ([#64](https://www.github.com/bcoe/test-release-please/issues/64)) ([5ea5371](https://www.github.com/bcoe/test-release-please/commit/5ea5371d955325c8942c7eb9cc5d2f83856ee13f))
+* **spaces:** a breaking number of spaces 4 ([#65](https://www.github.com/bcoe/test-release-please/issues/65)) ([d9883af](https://www.github.com/bcoe/test-release-please/commit/d9883afb250ccf586bec4fcf73b2bcc5c19c6bcd))
+
 ## [5.1.0](https://www.github.com/bcoe/test-release-please/compare/v5.0.0...v5.1.0) (2021-02-02)
 
 
