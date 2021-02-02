@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.2.0](https://www.github.com/bcoe/test-release-please/compare/v1.1.0...v1.2.0) (2021-02-02)
+
+
+### Features
+
+* **readme:** add some spaces to readme ([#69](https://www.github.com/bcoe/test-release-please/issues/69)) ([ff1652a](https://www.github.com/bcoe/test-release-please/commit/ff1652ad6c06e43e1734054e83c9e68fe3960311))
+
 ## [1.1.0](https://www.github.com/bcoe/test-release-please/compare/b-v1.0.0...v1.1.0) (2020-07-26)
 
 
