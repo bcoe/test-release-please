@@ -4,6 +4,15 @@
 
 [1]: https://www.npmjs.com/package/test-release-please?activeTab=versions
 
+## [5.1.0](https://www.github.com/bcoe/test-release-please/compare/v5.0.0...v5.1.0) (2021-02-02)
+
+
+### Features
+
+* **formatting:** formats text ([5e381cd](https://www.github.com/bcoe/test-release-please/commit/5e381cddadf317c37a063f95cc7ebc7d6f124fd6))
+* **newlines:** I have removed some ([8bc1fce](https://www.github.com/bcoe/test-release-please/commit/8bc1fce63056b0e4df7dd11d9c6b0cbd38767f9f))
+* **newlines:** multiple newlines added ([#61](https://www.github.com/bcoe/test-release-please/issues/61)) ([5e381cd](https://www.github.com/bcoe/test-release-please/commit/5e381cddadf317c37a063f95cc7ebc7d6f124fd6))
+
 ## [5.0.0](https://www.github.com/bcoe/test-release-please/compare/v4.1.0...v5.0.0) (2021-02-02)
 
 
