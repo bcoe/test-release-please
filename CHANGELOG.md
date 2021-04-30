@@ -4,6 +4,13 @@
 
 [1]: https://www.npmjs.com/package/test-release-please?activeTab=versions
 
+### [6.2.9](https://www.github.com/bcoe/test-release-please/compare/v6.0.0...v6.2.9) (2021-04-30)
+
+
+### Miscellaneous Chores
+
+* release at different version ([52ba00b](https://www.github.com/bcoe/test-release-please/commit/52ba00bdfd3b005e7ed60502e3b9213fdd69c4b8))
+
 ## [6.0.0](https://www.github.com/bcoe/test-release-please/compare/v5.1.0...v6.0.0) (2021-04-30)
 
 
