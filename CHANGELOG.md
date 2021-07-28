@@ -4,6 +4,21 @@
 
 [1]: https://www.npmjs.com/package/test-release-please?activeTab=versions
 
+## [6.3.0](https://www.github.com/bcoe/test-release-please/compare/v6.2.9...v6.3.0) (2021-07-28)
+
+
+### Features
+
+* switch to go releaser ([c60aad3](https://www.github.com/bcoe/test-release-please/commit/c60aad30cb4439c26c7f3ca322974faf7581c8a2))
+
+
+### Bug Fixes
+
+* changelog path ([a8c2dfe](https://www.github.com/bcoe/test-release-please/commit/a8c2dfe390a371bcf76c41091ad797180316b1c5))
+* changelog path ([7b37ea3](https://www.github.com/bcoe/test-release-please/commit/7b37ea3b5b71316802416e6e1e58944b3f500372))
+* changelog path ([3ea9ce5](https://www.github.com/bcoe/test-release-please/commit/3ea9ce56370b6253ca3a44cdf91d47720d3ddee6))
+* changelog path ([ce28db3](https://www.github.com/bcoe/test-release-please/commit/ce28db33372994707d8f8b349e22eb136c08f710))
+
 ### [6.2.9](https://www.github.com/bcoe/test-release-please/compare/v6.0.0...v6.2.9) (2021-04-30)
 
 
