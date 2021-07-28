@@ -13,3 +13,4 @@ jobs:
           token: ${{ secrets.GITHUB_TOKEN }}
           release-type: go
           package-name: test-release-please
+          changelog-path: CHANGELOG.md
