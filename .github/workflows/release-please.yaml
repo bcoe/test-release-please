@@ -1,28 +1,15 @@
 on:
   push:
     branches:
-      - nil
+      - master
 name: release-please
 jobs:
   release-please:
     runs-on: ubuntu-latest
-    stepsblerg:
-      - uses: bcoe/release-please-action@v1.2.1
+    steps:
+      - uses:  GoogleCloudPlatform/release-please-action@v2
         id: release
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
-          release-type: node
+          release-type: go
           package-name: test-release-please
-      - uses: actions/checkout@v2
-        if: ${{ steps.release.outputs.release_created }}
-      - uses: actions/setup-node@v1
-        with:
-          node-version: 12
-          registry-url: https://external-dot-oss-automation.appspot.com/
-        if: ${{ steps.release.outputs.release_created }}
-      - run: npm ci
-        if: ${{ steps.release.outputs.release_created }}
-      - run: npm publish
-        env:
-          NODE_AUTH_TOKEN: ${{secrets.NPM_TOKEN}}
-        if: ${{ steps.release.outputs.release_created }}
