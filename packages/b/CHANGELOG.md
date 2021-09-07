@@ -1,5 +1,12 @@
 # Changelog
 
+### [1.1.1](https://www.github.com/bcoe/test-release-please/compare/b-v1.1.0...b-v1.1.1) (2021-09-07)
+
+
+### Bug Fixes
+
+* force an update ([a96d9de](https://www.github.com/bcoe/test-release-please/commit/a96d9de992997a2c23c84e1b71d056f45948ab69))
+
 ## [1.1.0](https://www.github.com/bcoe/test-release-please/compare/b-v1.0.0...v1.1.0) (2020-07-26)
 
 

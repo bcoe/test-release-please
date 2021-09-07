@@ -1,5 +1,14 @@
 # Changelog
 
+### [1.0.2](https://www.github.com/bcoe/test-release-please/compare/a-v1.0.1...a-v1.0.2) (2021-09-07)
+
+
+### Dependencies
+
+* The following workspace dependencies were updated
+  * dependencies
+    * b bumped from 1.1.0 to ^1.1.1
+
 ### [1.0.1](https://www.github.com/bcoe/test-release-please/compare/a-v1.0.0...v1.0.1) (2020-07-26)
 
 
