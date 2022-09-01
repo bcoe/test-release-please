@@ -4,6 +4,25 @@
 
 [1]: https://www.npmjs.com/package/test-release-please?activeTab=versions
 
+## [6.3.0](https://github.com/bcoe/test-release-please/compare/v6.2.9...v6.3.0) (2022-09-01)
+
+
+### Features
+
+* Create a fake release ([2ac0192](https://github.com/bcoe/test-release-please/commit/2ac0192592d8ea8d59b9c262ee7fc57aef26dca9))
+* Enable release please app ([4288031](https://github.com/bcoe/test-release-please/commit/428803132f191f3ee51dd7d6095a4823c37e99a3))
+* Switch to go releaser ([c60aad3](https://github.com/bcoe/test-release-please/commit/c60aad30cb4439c26c7f3ca322974faf7581c8a2))
+
+
+### Bug Fixes
+
+* Changelog path ([a8c2dfe](https://github.com/bcoe/test-release-please/commit/a8c2dfe390a371bcf76c41091ad797180316b1c5))
+* Changelog path ([7b37ea3](https://github.com/bcoe/test-release-please/commit/7b37ea3b5b71316802416e6e1e58944b3f500372))
+* Changelog path ([3ea9ce5](https://github.com/bcoe/test-release-please/commit/3ea9ce56370b6253ca3a44cdf91d47720d3ddee6))
+* Changelog path ([ce28db3](https://github.com/bcoe/test-release-please/commit/ce28db33372994707d8f8b349e22eb136c08f710))
+* Force an update ([a96d9de](https://github.com/bcoe/test-release-please/commit/a96d9de992997a2c23c84e1b71d056f45948ab69))
+* Turn off action for now ([9350abd](https://github.com/bcoe/test-release-please/commit/9350abdbe5ef391a62e394491046cfb34dbfb23d))
+
 ### [6.2.9](https://www.github.com/bcoe/test-release-please/compare/v6.0.0...v6.2.9) (2021-04-30)
 
 
