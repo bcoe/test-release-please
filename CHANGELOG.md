@@ -4,6 +4,20 @@
 
 [1]: https://www.npmjs.com/package/test-release-please?activeTab=versions
 
+## [6.4.0](https://github.com/bcoe/test-release-please/compare/v6.3.0...v6.4.0) (2022-09-01)
+
+
+### Features
+
+* Adds new fancy pants features 👖 ([e3c0753](https://github.com/bcoe/test-release-please/commit/e3c075343942656b0663fca7989e10ea85d7ad9b))
+* gRPC proxy settings added ([0ef6892](https://github.com/bcoe/test-release-please/commit/0ef6892af12287cd5e17e553d7b49c6742d21c2b))
+
+
+### Bug Fixes
+
+* Another important fix ([519dc44](https://github.com/bcoe/test-release-please/commit/519dc440e625351d8dfb84cef5a1c78ca05e3167))
+* Fix a pressing issue with library ([89de068](https://github.com/bcoe/test-release-please/commit/89de068bfa06881431f9ba16fa931057447a5fbf))
+
 ## [6.3.0](https://github.com/bcoe/test-release-please/compare/v6.2.9...v6.3.0) (2022-09-01)
 
 
